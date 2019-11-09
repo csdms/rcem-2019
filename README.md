@@ -1,14 +1,13 @@
 # River, Coastal and Estuarine Morphodynamics Symposium
 
-## 16 - 21 November 2019 Auckland, New Zealand
+*16 - 21 November 2019 Auckland, New Zealand*
 
-## Links 🔗
+## Instructors
 
-* [Community Surface Dynamics Modeling System
-  (CSDMS)](http://csdms.colorado.edu)
-* [landlab](https://landlab.readthedocs.io/en/v2_dev/)
-* [Basic Model Interface (BMI)](http://bmi.readthedocs.io)
-* [Python Modeling Toolkit (pymt)](http://pymt.readthedocs.io)
+* Katy Barnhart (@kbarnhart)
+* Eric Hutton (@mcflugen)
+* Greg Tucker (@gregtucker)
+
 
 ## The Plan
 
@@ -29,6 +28,7 @@
 * Web browser
 * ☕ (optional, but recommended)
 
+
 ## Get Started 🚀
 
 1. [Create an account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub
@@ -36,9 +36,21 @@
 3. Wait for authorization
 3. [Get the tutorials and sign](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Ftutorials&urlpath=tree%2Ftutorials%2F&branch=v2_dev) in to our JupyterHub
 
+
 ### Note to admins
 
-Users are authorized through the JupyterHub [authorization panel](https://csdms.rc.colorado.edu/hub/authorize)
+Users are authorized through the JupyterHub
+[authorization panel](https://csdms.rc.colorado.edu/hub/authorize)
+
+
+## Links 🔗
+
+* [Community Surface Dynamics Modeling System
+  (CSDMS)](http://csdms.colorado.edu)
+* [landlab](https://landlab.readthedocs.io/en/v2_dev/)
+* [Basic Model Interface (BMI)](http://bmi.readthedocs.io)
+* [Python Modeling Toolkit (pymt)](http://pymt.readthedocs.io)
+
 
 ## Thank you! 🙌
 
