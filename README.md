@@ -11,7 +11,7 @@
 
 ## Before the workshop
 
-1. **Sign up for an account (see above)**: We will do all of our computation on the CSDMS JupyterHub. This means that we won't have to spend time installing software during the workshop. 
+1. **Sign up for an account (see below)**: We will do all of our computation on the CSDMS JupyterHub. This means that we won't have to spend time installing software during the workshop. 
 2. **Review the basics of working with Python and the Jupyter Notebook Interface**: There are many online resources. Coding experience is not a prerequisite for this workshop and we will explain core concepts as we go along. 
 3. **Background reading**: Read the [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html) open source paper about Landlab
 
@@ -21,11 +21,11 @@
 |               | Saturday                         | Sunday          |
 | ------------- | -------------------------------- | --------------- |
 | 9:00 - 10:30  | Intro to *landlab*               | Intro to *pymt* |
-| 10:30 - 10:45 | ☕                               | ☕              |
+| 10:30 - 10:45 | ☕                                | ☕               |
 | 10:45 - 12:15 | Grids and fields                 | Run + explore   |
 | 12:15 - 13:15 | Lunch                            | Lunch           |
 | 13:15 - 14:45 | Components + boundary conditions | TBD             |
-| 14:45 - 15:00 | ☕                               | ☕              |
+| 14:45 - 15:00 | ☕                                | ☕               |
 | 15:00 - 16:30 | Plotting + i/o                   | TBD             |
 
 
