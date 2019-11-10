@@ -34,8 +34,9 @@
 1. [Create an account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub
 2. Provide a username and password - it can be whatever you like
 3. Wait for authorization
-3. [Get the tutorials and sign](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Ftutorials&urlpath=tree%2Ftutorials%2F&branch=v2_dev) in to our JupyterHub
-
+4. [Get the tutorials and sign](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Ftutorials&urlpath=tree%2Ftutorials%2F&branch=v2_dev) in to our JupyterHub
+5. [Get the pymt tutorials and sign](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Frcem-2019&urlpath=tree%2Frcem-2019%2Fnotebooks%2Findex.ipynb&branch=mcflugen%2Fadd-pymt-notebooks)
+in to our JupyterHub
 
 ### Note to admins
 
