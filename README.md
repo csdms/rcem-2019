@@ -37,6 +37,13 @@
 3. [Get the tutorials and sign](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Ftutorials&urlpath=tree%2Ftutorials%2F&branch=v2_dev) in to our JupyterHub
 
 
+## Before the workshop
+
+1. **Sign up for an account (see above)**: We will do all of our computation on the CSDMS JupyterHub. This means that we wont' have to spend time installing software during the workshop. 
+2. **Review the basics of working with Python and the Jupyter Notebook Interface**: There are many online resources. Coding experience is not a prerequisite for this workshop and we will explain core concepts as we go along. 
+3. **Background reading**: Read the [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html) open source paper about Landlab
+
+
 ### Note to admins
 
 Users are authorized through the JupyterHub
@@ -47,7 +54,7 @@ Users are authorized through the JupyterHub
 
 * [Community Surface Dynamics Modeling System
   (CSDMS)](http://csdms.colorado.edu)
-* [landlab](https://landlab.readthedocs.io/en/v2_dev/)
+* [landlab documentation](https://landlab.readthedocs.io/en/v2_dev/)
 * [Basic Model Interface (BMI)](http://bmi.readthedocs.io)
 * [Python Modeling Toolkit (pymt)](http://pymt.readthedocs.io)
 
