@@ -24,9 +24,9 @@
 | 10:30 - 10:45 | ☕                                | ☕               |
 | 10:45 - 12:15 | Grids and fields                 | Run + explore   |
 | 12:15 - 13:15 | Lunch                            | Lunch           |
-| 13:15 - 14:45 | Components + boundary conditions | TBD             |
+| 13:15 - 14:45 | Plotting + i/o                   | TBD             |
 | 14:45 - 15:00 | ☕                                | ☕               |
-| 15:00 - 16:30 | Plotting + i/o                   | TBD             |
+| 15:00 - 16:30 | Components + boundary conditions | TBD             |
 
 
 ## The Requirements
